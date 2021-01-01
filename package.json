@@ -1,0 +1,15 @@
+{
+  "name": "logapptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maintest.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
