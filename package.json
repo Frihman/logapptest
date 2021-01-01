@@ -4,7 +4,8 @@
   "description": "",
   "main": "maintest.js",
   "dependencies": {
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0"
   },
   "devDependencies": {},
   "scripts": {
